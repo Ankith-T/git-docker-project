@@ -5,6 +5,7 @@ This repository contains a small Python web application used to practice Git, Gi
 ## Application
 
 The application listens on port 8000 and returns a text response when accessed over HTTP.
+Text response has a health status and test lines.
 
 ## Verification
 
